@@ -1,0 +1,21 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmanav26/New-website.git"
+  },
+  "author": "Manav Bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmanav26/New-website/issues"
+  },
+  "homepage": "https://github.com/bmanav26/New-website#readme"
+}
